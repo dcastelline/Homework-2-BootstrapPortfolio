@@ -1,0 +1,19 @@
+.container1 {
+    position: absolute;
+    padding: 20px;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+  }
+
+.AboutRow1 {
+    padding: 20px;
+    margin: 20px;
+}
+
+.AboutRow2 {
+    padding: 20px;
+}
