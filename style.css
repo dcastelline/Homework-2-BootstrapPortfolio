@@ -2,18 +2,27 @@
     position: absolute;
     padding: 20px;
 }
+    .responsive {
+        position: relative;
+        width: 100%;
+        max-width: 150px;
+        height: auto;
+    }
 
-.responsive {
-    width: 100%;
-    max-width: 150px;
-    height: auto;
-  }
+    .row2 {
+        position: fixed;
+        padding-top: 20px;
+    }
 
-.AboutRow1 {
-    padding: 20px;
-    margin: 20px;
+.container2 {
+    position: absolute;
+    padding: 30px;
 }
 
-.AboutRow2 {
-    padding: 20px;
+.projects {
+    position: relative;
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+    font-size: 30px;
 }
