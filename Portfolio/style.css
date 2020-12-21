@@ -1,29 +1,3 @@
 .container {
     position: absolute;
-    margin: 40px;
-    padding: 20px;
-}
-    .responsive {
-        position: relative;
-        width: 100%;
-        max-width: 150px;
-        height: auto;
-    }
-
-    .row2 {
-        position: fixed;
-        padding-top: 20px;
-    }
-
-.projects {
-    position: relative;
-    text-align: center;
-    padding: 50px;
-    font-weight: bold;
-    font-size: 30px;
-}
-
-.submit {
-    background-color: #008cba;
-    color: white;
 }
