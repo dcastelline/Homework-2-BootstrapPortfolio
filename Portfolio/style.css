@@ -1,5 +1,7 @@
-.container1 {
+.container {
+    viewport-fit: auto;
     position: absolute;
+    margin: 40px;
     padding: 20px;
 }
     .responsive {
@@ -14,15 +16,15 @@
         padding-top: 20px;
     }
 
-.container2 {
-    position: absolute;
-    padding: 30px;
-}
-
 .projects {
     position: relative;
     text-align: center;
     padding: 50px;
     font-weight: bold;
     font-size: 30px;
+}
+
+.submit {
+    background-color: #008cba;
+    color: white;
 }
