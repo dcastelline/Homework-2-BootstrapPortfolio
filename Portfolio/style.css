@@ -1,12 +1,36 @@
-body {
-    background-color: #F8F8F8;
-}
+/* About page */
 
 .container {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    position: absolute;
+    width: 80vw;
+    margin: 0 auto;
     padding-top: 15px;
+}
+
+/* Portfolio page */
+
+@media screen and (min-width: 576px) {
+    .projects {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .projects {
+        width: 100%;
+    }
+}
+
+
+/* Contact page */
+
+@media screen and (min-width: 576px) {
+    .contact {
+        width: 40vw;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .contact {
+        width: 100%;
+    }
 }
