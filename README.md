@@ -1,4 +1,4 @@
-# **Homework-2-BootstrapPortfolio
+# **Homework-2-BootstrapPortfolio**
 
 This is my portfolio, created to showcase my work and my progress as I learn more about web development and coding.  This portfolio was created with **HTML** and **CSS** using **Bootstrap**.  This project gave me a the chance to experiment with **Bootstrap** to style and scale my site.
 
