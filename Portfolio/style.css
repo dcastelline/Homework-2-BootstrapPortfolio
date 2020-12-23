@@ -8,13 +8,6 @@ body {
     padding-top: 15px;
 }
 
-h1 {
-   box-sizing: border-box;
-   position: absolute;
-   padding-top: 50px;
-   padding-left: 50px;
-}
-
 /* Portolio page */
 .projects {
     max-width: 500px;
