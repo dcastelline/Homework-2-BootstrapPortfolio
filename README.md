@@ -8,4 +8,4 @@ My portfolio project consists of **About Me**, **My Portfolio**, and **Contact M
 
 ### **Deployed Link**
 
-https://dcastelline.github.io/Homework-2-BootstrapPortfolio/
+https://dcastelline.github.io/Portfolio/
